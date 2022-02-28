@@ -24,7 +24,7 @@ The source code, images and annotations are licensed under [CC BY 4.0](https://c
 * [Inference graph_final optimized model.rar](https://drive.google.com/file/d/1YgJaewBSPuVaNwLLN6s6JEmVfq-mTp32) (560 MB)
 
 Due to the size of the images and models they are hosted outside of the Github repository. The images and models must be downloaded into directories named "images" and "models", respectively, at the root of the repository. If you execute the python script (deepweeds.py), as instructed below, this step will be performed for you automatically.
-
+<!--
 ## TensorFlow Datasets
 Alternatively, you can access the DeepWeeds dataset with [TensorFlow Datasets](https://www.tensorflow.org/datasets), TensorFlow's official collection of ready-to-use datasets. [DeepWeeds](https://www.tensorflow.org/datasets/catalog/deep_weeds) was officially added to the TensorFlow Datasets catalog in August 2019.
 
@@ -111,16 +111,17 @@ IEEE style citation: “A. Olsen, D. A. Konovalov, B. Philippa, P. Ridd, J. C. W
     Brendan Calvert and
     Mostafa {Rahimi Azghadi} and
     Ronald D. White},
-  title = {{DeepWeeds: A Multiclass Weed Species Image Dataset for Deep Learning}},
-  journal = {Scientific Reports},
-  year = 2019,
+  title = {{Weed Identification by Single-Stage and Two-Stage Neural Networks: A Study on the Impact of Image Resizers and Weights Optimization Algorithms}},
+  journal = {Frontiers in Plant Science},
+  year = 2022,
   number = 2058,
   month = 2,
   volume = 9,
   issue = 1,
   day = 14,
-  url = "https://doi.org/10.1038/s41598-018-38343-3",
-  doi = "10.1038/s41598-018-38343-3"
+  url = "",
+  doi = ""
 }
+-->
 
 ```
