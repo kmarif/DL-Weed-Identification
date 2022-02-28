@@ -1,5 +1,5 @@
 # DL-Weed-Identification
-# based on DeepWeeds: A Multiclass Weed Species Image Dataset for Deep Learning (https://github.com/AlexOlsen/DeepWeeds)
+## based on DeepWeeds: A Multiclass Weed Species Image Dataset for Deep Learning (https://github.com/AlexOlsen/DeepWeeds)
 
 This repository makes available the source code and public dataset for the work, "Weed Identification by Single-Stage and Two-Stage Neural Networks: A Study on the Impact of Image Resizers and Weights Optimization Algorithms", being published with open access by Frontiers in Plant Science: . The original DeepWeeds dataset consists of 17,509 images capturing eight different weed species native to Australia in situ with neighbouring flora. 
 
