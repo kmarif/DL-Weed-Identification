@@ -22,7 +22,7 @@ The annotation files, inference graph, and source code are licensed under [CC BY
 * [640x640.rar](https://drive.google.com/file/d/1hNbGPJnKOK2kn4tLman0TVqayNSIF_NL) (3.3 GB)
 * [512x512.rar](https://drive.google.com/file/d/1iBhh6WYwwsKALQucxCkG9fVWrRdhqOQw) (2.0 GB)
 * [yolo-v4.rar](https://drive.google.com/file/d/1HkdV631NV2rNYgk1WlA6QgyM8tw7dbtc) (2.8 GB)
-* [Inference graph_final optimized model.rar](https://drive.google.com/file/d/1YgJaewBSPuVaNwLLN6s6JEmVfq-mTp32) (560 MB)
+* [Inference graph_final optimized model.rar](https://drive.google.com/file/d/1BVTyypnWzxTvZnA7H2zPQqr-WzOHxJoa) (560 MB)
 
 Due to the size of the images and models they are hosted outside of the Github repository. 
 <!--
