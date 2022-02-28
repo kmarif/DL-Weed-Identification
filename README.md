@@ -128,5 +128,3 @@ IEEE style citation: “A. Olsen, D. A. Konovalov, B. Philippa, P. Ridd, J. C. W
 This repository is a part of the PhD research of Muhammad Hammad Saleem (H.Saleem@massey.ac.nz; engr.hammadsaleem@gmail.com)
 
 In case of any query, please contact Dr. Khalid Mahmood Arif (K.Arif@massey.ac.nz), Muhammad Hammad Saleem (H.Saleem@massey.ac.nz; engr.hammadsaleem@gmail.com)
-
-```
