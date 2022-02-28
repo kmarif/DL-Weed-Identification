@@ -1,7 +1,11 @@
 # DL-Weed-Identification
-# based on DeepWeeds: A Multiclass Weed Species Image Dataset for Deep Learning
+# based on DeepWeeds: A Multiclass Weed Species Image Dataset for Deep Learning (https://github.com/AlexOlsen/DeepWeeds)
 
-This repository makes available the source code and public dataset for the work, "DeepWeeds: A Multiclass Weed Species Image Dataset for Deep Learning", published with open access by Scientific Reports: https://github.com/kmarif/DeepWeeds. The DeepWeeds dataset consists of 17,509 images capturing eight different weed species native to Australia in situ with neighbouring flora. In our work, the dataset was classified to an average accuracy of 95.7% with the ResNet50 deep convolutional neural network.
+This repository makes available the source code and public dataset for the work, "Weed Identification by Single-Stage and Two-Stage Neural Networks: A Study on the Impact of Image Resizers and Weights Optimization Algorithms", being published with open access by Frontiers in Plant Science: . The original DeepWeeds dataset consists of 17,509 images capturing eight different weed species native to Australia in situ with neighbouring flora. 
+
+It contains annotated files for DeepWeeds dataset for various deep learning models using TensorFlow object detection API and YOLO/Darknet neural network framework. Also, the inference graph from the final/optimized DL model (Faster RCNN ResNet-101) is available.
+
+It also contains configuration files for the deep learning models including SSD MobileNet, SSD Inception-v2, Faster RCNN ResNet-50, Faster RCNN ResNet-101, Faster RCNN Inception, Yolo-v4, RetinaNet, CenterNet ResNet-50, EfficientDet, and Yolo-v4.
 
 The source code, images and annotations are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. The contents of this repository are released under an [Apache 2](LICENSE) license.
 
@@ -9,6 +13,15 @@ The source code, images and annotations are licensed under [CC BY 4.0](https://c
 
 * [images.zip](https://drive.google.com/file/d/1xnK3B6K6KekDI55vwJ0vnc2IGoDga9cj) (468 MB)
 * [models.zip](https://drive.google.com/file/d/1MRbN5hXOTYnw7-71K-2vjY01uJ9GkQM5) (477 MB)
+
+## Download the annotated images and trained models with the following google drive links:
+
+* [300x300.rar](https://drive.google.com/file/d/1NODFubk6AxeY6Xpy9HKLRJ0oRSDUwsc-) (1.1 GB)
+* [600x600.rar](https://drive.google.com/file/d/1zULm7sLoQQOuYPxjYwmjYg_C8-zxTChI) (2.8 GB)
+* [640x640.rar](https://drive.google.com/file/d/1hNbGPJnKOK2kn4tLman0TVqayNSIF_NL) (3.3 GB)
+* [512x512.rar](https://drive.google.com/file/d/1iBhh6WYwwsKALQucxCkG9fVWrRdhqOQw) (2.0 GB)
+* [yolo-v4.rar](https://drive.google.com/file/d/1HkdV631NV2rNYgk1WlA6QgyM8tw7dbtc) (2.8 GB)
+* [Inference graph_final optimized model.rar](https://drive.google.com/file/d/1YgJaewBSPuVaNwLLN6s6JEmVfq-mTp32) (560 MB)
 
 Due to the size of the images and models they are hosted outside of the Github repository. The images and models must be downloaded into directories named "images" and "models", respectively, at the root of the repository. If you execute the python script (deepweeds.py), as instructed below, this step will be performed for you automatically.
 
