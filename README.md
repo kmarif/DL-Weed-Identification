@@ -1,5 +1,5 @@
 # DL-Weed-Identification
-## based on DeepWeeds: A Multiclass Weed Species Image Dataset for Deep Learning (https://github.com/AlexOlsen/DeepWeeds)
+### based on DeepWeeds (https://github.com/AlexOlsen/DeepWeeds)
 
 This repository makes available the source code and public dataset for the work, "Weed Identification by Single-Stage and Two-Stage Neural Networks: A Study on the Impact of Image Resizers and Weights Optimization Algorithms", being published with open access by Frontiers in Plant Science: . The original DeepWeeds dataset consists of 17,509 images capturing eight different weed species native to Australia in situ with neighbouring flora. 
 
@@ -8,12 +8,12 @@ It contains annotated files for DeepWeeds dataset for various deep learning mode
 It also contains configuration files for the deep learning models including SSD MobileNet, SSD Inception-v2, Faster RCNN ResNet-50, Faster RCNN ResNet-101, Faster RCNN Inception, Yolo-v4, RetinaNet, CenterNet ResNet-50, EfficientDet, and Yolo-v4.
 
 The source code, images and annotations are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. The contents of this repository are released under an [Apache 2](LICENSE) license.
-
+<!--
 ## Download the dataset images and our trained models
 
 * [images.zip](https://drive.google.com/file/d/1xnK3B6K6KekDI55vwJ0vnc2IGoDga9cj) (468 MB)
 * [models.zip](https://drive.google.com/file/d/1MRbN5hXOTYnw7-71K-2vjY01uJ9GkQM5) (477 MB)
-
+-->
 ## Download the annotated images and trained models with the following google drive links:
 
 * [300x300.rar](https://drive.google.com/file/d/1NODFubk6AxeY6Xpy9HKLRJ0oRSDUwsc-) (1.1 GB)
