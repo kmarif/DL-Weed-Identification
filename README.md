@@ -24,7 +24,7 @@ The annotation files, inference graph, and source code are licensed under [CC BY
 * [yolo-v4.rar](https://drive.google.com/file/d/1HkdV631NV2rNYgk1WlA6QgyM8tw7dbtc) (2.8 GB)
 * [Inference graph_final optimized model.rar](https://drive.google.com/file/d/1YgJaewBSPuVaNwLLN6s6JEmVfq-mTp32) (560 MB)
 
-Due to the size of the images and models they are hosted outside of the Github repository. The images and models must be downloaded into directories named "images" and "models", respectively, at the root of the repository. If you execute the python script (deepweeds.py), as instructed below, this step will be performed for you automatically.
+Due to the size of the images and models they are hosted outside of the Github repository. 
 <!--
 ## TensorFlow Datasets
 Alternatively, you can access the DeepWeeds dataset with [TensorFlow Datasets](https://www.tensorflow.org/datasets), TensorFlow's official collection of ready-to-use datasets. [DeepWeeds](https://www.tensorflow.org/datasets/catalog/deep_weeds) was officially added to the TensorFlow Datasets catalog in August 2019.
