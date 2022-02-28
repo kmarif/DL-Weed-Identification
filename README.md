@@ -1,4 +1,4 @@
-# DL-Weed-Identifiation
+# DL-Weed-Identification
 # based on DeepWeeds: A Multiclass Weed Species Image Dataset for Deep Learning
 
 This repository makes available the source code and public dataset for the work, "DeepWeeds: A Multiclass Weed Species Image Dataset for Deep Learning", published with open access by Scientific Reports: https://github.com/kmarif/DeepWeeds. The DeepWeeds dataset consists of 17,509 images capturing eight different weed species native to Australia in situ with neighbouring flora. In our work, the dataset was classified to an average accuracy of 95.7% with the ResNet50 deep convolutional neural network.
