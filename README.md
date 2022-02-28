@@ -1,6 +1,6 @@
 # DL-Weed-Identification
 ### based on DeepWeeds (https://github.com/AlexOlsen/DeepWeeds)
-#
+###
 This repository makes available the source code and public dataset for the work, "Weed Identification by Single-Stage and Two-Stage Neural Networks: A Study on the Impact of Image Resizers and Weights Optimization Algorithms", being published with open access by Frontiers in Plant Science: . 
 
 It contains annotated files for DeepWeeds dataset for various deep learning models using TensorFlow object detection API and YOLO/Darknet neural network framework. Also, the inference graph from the final/optimized DL model (Faster RCNN ResNet-101) is available.
@@ -15,7 +15,7 @@ The annotation files, inference graph, and source code are licensed under [CC BY
 * [images.zip](https://drive.google.com/file/d/1xnK3B6K6KekDI55vwJ0vnc2IGoDga9cj) (468 MB)
 * [models.zip](https://drive.google.com/file/d/1MRbN5hXOTYnw7-71K-2vjY01uJ9GkQM5) (477 MB)
 -->
-## Download the annotated images and trained models with the following google drive links:
+## Download the annotated images and trained models
 
 * [300x300.rar](https://drive.google.com/file/d/1NODFubk6AxeY6Xpy9HKLRJ0oRSDUwsc-) (1.1 GB)
 * [600x600.rar](https://drive.google.com/file/d/1zULm7sLoQQOuYPxjYwmjYg_C8-zxTChI) (2.8 GB)
