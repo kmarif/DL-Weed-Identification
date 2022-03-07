@@ -25,6 +25,9 @@ The annotation files, inference graph, and source code are licensed under [CC BY
 * [Inference graph_final optimized model.rar](https://drive.google.com/file/d/1BVTyypnWzxTvZnA7H2zPQqr-WzOHxJoa) (560 MB)
 
 Due to the size of the images and models they are hosted outside of the Github repository. 
+
+The images were resized with annotations using pascal_voc (https://github.com/italojs/resize_dataset_pascalvoc).
+
 <!--
 ## TensorFlow Datasets
 Alternatively, you can access the DeepWeeds dataset with [TensorFlow Datasets](https://www.tensorflow.org/datasets), TensorFlow's official collection of ready-to-use datasets. [DeepWeeds](https://www.tensorflow.org/datasets/catalog/deep_weeds) was officially added to the TensorFlow Datasets catalog in August 2019.
