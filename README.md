@@ -26,7 +26,7 @@ The annotation files, inference graph, and source code are licensed under [CC BY
 
 Due to the size of the images and models they are hosted outside of the Github repository. 
 
-The images were resized with annotations using pascal_voc (https://github.com/italojs/resize_dataset_pascalvoc).
+The images were resized with annotations using resize-pascal-voc (https://github.com/italojs/resize_dataset_pascalvoc).
 
 <!--
 ## TensorFlow Datasets
