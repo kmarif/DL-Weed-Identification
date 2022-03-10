@@ -9,6 +9,10 @@ It also contains configuration files for the deep learning models including SSD 
 
 The annotation files, inference graph, and source code are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. The contents of this repository are released under an [Apache 2](LICENSE) license.
 
+The images were resized with annotations using resize-pascal-voc (https://github.com/italojs/resize_dataset_pascalvoc).
+
+Due to the size of the images and models they are hosted outside of the Github repository. 
+
 <!--
 ## Download the dataset images and our trained models
 
@@ -30,10 +34,6 @@ The annotation files, inference graph, and source code are licensed under [CC BY
 * [fold3.rar](https://drive.google.com/file/d/1YZ2OZDDxvr-gFZQ1m_Jv2DF14uFaUvn7) (2.8 G)
 * [fold4.rar](https://drive.google.com/file/d/1ev26aaLQKe8E1ohCmCjqE8hIedIXgeHB) (2.8 G)
 * [fold5.rar](https://drive.google.com/file/d/19ucM9ghPXWDa8vpnLRphwT_iz5zqqlvp) (2.8 G)
-
-Due to the size of the images and models they are hosted outside of the Github repository. 
-
-The images were resized with annotations using resize-pascal-voc (https://github.com/italojs/resize_dataset_pascalvoc).
 
 <!--
 ## TensorFlow Datasets
