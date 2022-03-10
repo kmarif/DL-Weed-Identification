@@ -24,6 +24,13 @@ The annotation files, inference graph, and source code are licensed under [CC BY
 * [yolo-v4.rar](https://drive.google.com/file/d/1HkdV631NV2rNYgk1WlA6QgyM8tw7dbtc) (2.8 GB)
 * [Inference graph_final optimized model.rar](https://drive.google.com/file/d/1BVTyypnWzxTvZnA7H2zPQqr-WzOHxJoa) (560 MB)
 
+## Downloads folds for stratified k-fold cross-validation method
+* [fold1.rar](https://drive.google.com/file/d/1tMYunfgiDLAC5U-NUvax0CDNa3ElarRC) (2.8 G)
+* [fold2.rar](https://drive.google.com/file/d/153vv368OZDFnrMz_wXsSMeEAFtXE1S6W) (2.8 G)
+* [fold3.rar](https://drive.google.com/file/d/1YZ2OZDDxvr-gFZQ1m_Jv2DF14uFaUvn7) (2.8 G)
+* [fold4.rar](https://drive.google.com/file/d/1ev26aaLQKe8E1ohCmCjqE8hIedIXgeHB) (2.8 G)
+* [fold5.rar](https://drive.google.com/file/d/19ucM9ghPXWDa8vpnLRphwT_iz5zqqlvp) (2.8 G)
+
 Due to the size of the images and models they are hosted outside of the Github repository. 
 
 The images were resized with annotations using resize-pascal-voc (https://github.com/italojs/resize_dataset_pascalvoc).
