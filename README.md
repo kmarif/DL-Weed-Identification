@@ -27,6 +27,7 @@ Due to the size of the images and models they are hosted outside of the Github r
 * [512x512.rar](https://drive.google.com/file/d/1iBhh6WYwwsKALQucxCkG9fVWrRdhqOQw) (2.0 GB)
 * [yolo-v4.rar](https://drive.google.com/file/d/1HkdV631NV2rNYgk1WlA6QgyM8tw7dbtc) (2.8 GB)
 * [Inference graph_final optimized model.rar](https://drive.google.com/file/d/1BVTyypnWzxTvZnA7H2zPQqr-WzOHxJoa) (560 MB)
+* [inference_graph_enhanced_anchor_boxes.rar](https://drive.google.com/file/d/1--I3cEJv5kotZbYYwGjPwNHTmfvCvrtW) (560 MB)
 
 ## Downloads folds for stratified k-fold cross-validation method
 * [fold1.rar](https://drive.google.com/file/d/1tMYunfgiDLAC5U-NUvax0CDNa3ElarRC) (2.8 G)
